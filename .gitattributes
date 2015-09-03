@@ -1,2 +1,2 @@
-spring-cloud-config-server/src/test/resources/*-repo/** eol=lf
+**/src/test/resources/*-repo/** eol=lf
 
